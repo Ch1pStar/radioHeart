@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+    <track>
+        <title>T_1</title>
+        <artist>DenYo</artist>
+        <url>http://localhost/radioheart/php/playlists/Pl1/1.mp3</url>
+    </track>
+    <track>
+        <title>T_3</title>
+        <artist>Yo</artist>
+        <url>http://localhost/radioheart/php/playlists/Pl1/2.mp3</url>
+    </track>
+</songs>

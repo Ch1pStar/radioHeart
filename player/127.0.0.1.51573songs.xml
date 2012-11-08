@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+    <track>
+        <title>Smash Mouth - All Star - Shrek</title>
+        <artist> </artist>
+        <url>http://localhost/radioheart-_-for_web/php/playlists/Pl-Name/Smash Mouth - All Star - Shrek.mp3</url>
+    </track>
+    <track>
+        <title>Rocky</title>
+        <artist> </artist>
+        <url>http://localhost/radioheart-_-for_web/php/playlists/Pl-Name/Rocky.mp3</url>
+    </track>
+</songs>
